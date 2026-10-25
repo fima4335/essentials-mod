@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "essentials:block/compact_copper_block"
+    }
+  }
+}
